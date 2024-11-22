@@ -75,9 +75,9 @@ font-family: 'Dosis-Regular', sans-serif;}
 
 
 .header-section
-{width: 100%; padding: 120px 0; margin-top: 0px; height: 50%;
+{width: 100%; padding: 129px 0px; margin-top: 0px; height: 50%;
   background-image:linear-gradient(to left, rgba(92, 89, 89, 0.1), rgba(0,0,0,0.1)),
-        url('../images/banner2.jpg');
+        url('../images/banner12.png');
 background-size: cover;background-position: center;
 background-repeat: no-repeat;}
 
